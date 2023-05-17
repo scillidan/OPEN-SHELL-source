@@ -24,3 +24,8 @@ https://www.gamersky.com/handbook/201504/557548.shtml
 ## Liability & Warranty
 
 No liability and no Warranty.
+
+## Todo
+
+- [ ] Learn how to make Photoshop scripts
+- [ ] make and add other sources
