@@ -10,5 +10,4 @@ source of [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu).
 
 ## Todo
 
-- [ ] learn how to make Photoshop scripts
-- [ ] make and add other sources
+- [ ] make and add other sources ?
